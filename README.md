@@ -12,19 +12,19 @@
 10. Methods
 11. Constructors 
 12. Java OOPS\
-	12.1. Encapsulation (access modifiers)\
-	12.2. Inheritance (super and static keyword)\
-	12.3. Abstraction\
-	12.4. Polymorphism\
-	*Tabspace*12.41. Static (Overloading)\
-	*Tabspace*12.42. Dynamic (Overriding)
-13. Exception handling
-14. final, finally, finalize keyword
-15. Abstract Class
-16. Interface
-17. Functional Interface
-18. Anonymous class (Lambda Functions)
-19. Collections (List, Set, Queue)
-20. Maps
-21. Stream API
-22. Optional
+emsp12.1. Encapsulation (access modifiers)\
+emsp12.2. Inheritance (super and static keyword)\
+emsp12.3. Abstraction\
+emsp12.4. Polymorphism\
+emspemsp12.41. Static (Overloading)\
+emspemsp12.42. Dynamic (Overriding)
+14. Exception handling
+15. final, finally, finalize keyword
+16. Abstract Class
+17. Interface
+18. Functional Interface
+19. Anonymous class (Lambda Functions)
+20. Collections (List, Set, Queue)
+21. Maps
+22. Stream API
+23. Optional
