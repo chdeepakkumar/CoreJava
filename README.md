@@ -12,12 +12,12 @@
 10. Methods
 11. Constructors 
 12. Java OOPS\
-emsp12.1. Encapsulation (access modifiers)\
-emsp12.2. Inheritance (super and static keyword)\
-emsp12.3. Abstraction\
-emsp12.4. Polymorphism\
-emspemsp12.41. Static (Overloading)\
-emspemsp12.42. Dynamic (Overriding)
+emsp 12.1. Encapsulation (access modifiers)\
+emsp 12.2. Inheritance (super and static keyword)\
+emsp 12.3. Abstraction\
+emsp 12.4. Polymorphism\
+emsp emsp 12.41. Static (Overloading)\
+emsp emsp 12.42. Dynamic (Overriding)
 14. Exception handling
 15. final, finally, finalize keyword
 16. Abstract Class
