@@ -16,7 +16,7 @@
 &nbsp;12.2. Inheritance (super and static keyword)\
 &nbsp;12.3. Abstraction\
 &nbsp;12.4. Polymorphism\
-&nbsp;&nbsp;&nbsp;12.4.1. Static (Overloading)\
+&emsp;12.4.1. Static (Overloading)\
 &nbsp;&nbsp;&nbsp;12.4.2. Dynamic (Overriding)
 14. Exception handling
 15. final, finally, finalize keyword
