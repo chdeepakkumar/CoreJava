@@ -41,6 +41,10 @@ public class Animal {
 		return "Animal [name=" + name + "]";
 	}
 	
+	public int getLimbsCount() {
+		return 4;
+	}
+	
 	
 	
 //	@Override
