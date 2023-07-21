@@ -14,4 +14,11 @@ public class Child2 extends Parent {
 		System.out.println("Inside Child2 Test Method 2");
 		return 0;
 	}
+
+	@Override
+	public int testMethod2(int a, int b, int c) {
+		// TODO Auto-generated method stub
+		System.out.println("Inside Child2 Test Method 2");
+		return 0;
+	}
 }

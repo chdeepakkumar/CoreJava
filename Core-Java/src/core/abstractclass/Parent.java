@@ -7,8 +7,14 @@ public abstract class Parent {
 	// Abstract methods can NOT be static as we have to override them 
 	// and we can't override static methods
 	
+	
 	public abstract void testMethod1();
 	public abstract int testMethod2(int a, int b);
+	public abstract int testMethod2(int a, int b, int c);
+	
+	public Parent() {
+		
+	}
 	
 	public void method1() {
 		System.out.println("Concrete method");
