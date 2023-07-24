@@ -24,7 +24,12 @@
 17. Interface
 18. Functional Interface
 19. Anonymous class (Lambda Functions)
-20. Collections (List, Set, Queue)
-21. Maps
-22. Stream API
-23. Optional
+20. Java Generics
+21. Collections (List, Set, Queue)
+22. Maps
+23. Stream API
+24. Optional
+
+
+###Interview Questions
+https://www.javatpoint.com/corejava-interview-questions
